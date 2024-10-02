@@ -1,12 +1,12 @@
 # LEARN C LANGUAGE 
 
 ## Table of Contents
-- [FUNDAMENTAL OF C LANGUAGE](FUNDAMENTAL_OF_C_LANGUAGE\readme.md)
-- [CONTROL FLOW STATEMENT](CONTROL_FLOW_STATEMENT\readme.md)
-- [FUNCTIONS](FUNCTIONS\readme.md)
-- [ARRAY AND STRINGS](ARRAY_AND_STRINGS\readme.md)
-- [STRUCTURE](STRUCTURE\readme.md)
-- [POINTER](POINTER\readme.md)
+- [FUNDAMENTAL OF C LANGUAGE](FUNDAMENTAL_OF_C_LANGUAGE/readme.md)
+- [CONTROL FLOW STATEMENT](CONTROL_FLOW_STATEMENT/readme.md)
+- [FUNCTIONS](FUNCTIONS/readme.md)
+- [ARRAY AND STRINGS](ARRAY_AND_STRINGS/readme.md)
+- [STRUCTURE](STRUCTURE/readme.md)
+- [POINTER](POINTER/readme.md)
 
 ## What is C Language?
   <div style="display: flex; align-items: center;">
