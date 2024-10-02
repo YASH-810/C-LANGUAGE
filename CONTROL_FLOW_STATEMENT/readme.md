@@ -6,4 +6,4 @@
 ## for loop
 ## while loop
 ## while do loop
-## [Pattern](pattern/README.md)
+## [Pattern](Pattern/README.md)
