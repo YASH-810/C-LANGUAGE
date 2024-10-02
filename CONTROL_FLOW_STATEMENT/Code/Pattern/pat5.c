@@ -1,4 +1,4 @@
-//TO PRINT 
+//TO PRINT PATTERN
 #include<stdio.h>
 void main(){
     int n,i,j;
@@ -6,7 +6,7 @@ void main(){
     scanf("%d",&n);
     for (i=1;i<=n;i++) {
         for (j=1;j<=n;j++){
-            printf("*");
+            printf("%d",i*j);
         }
         printf("\n");
     }

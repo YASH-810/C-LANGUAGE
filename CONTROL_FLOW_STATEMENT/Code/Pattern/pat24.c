@@ -1,14 +1,14 @@
-//TO PRINT 
+//TO PRINT PATTERN
 #include<stdio.h>
-void main(){
-    int n,i,j;
+ int main(){
+    int n,i,j,num=1;
     printf("Enter row and column \n");
     scanf("%d",&n);
     for (i=1;i<=n;i++) {
-        for (j=1;j<=n;j++){
-            printf("*");
+        for (j=1;j<=i;j++){
+            printf("%c",64+j);
         }
         printf("\n");
     }
     return 0;
-}    
+ }
