@@ -26,6 +26,8 @@
 
 [![PATTERN IMAGE](Pattern/IMG/IMG39.png "PATTERN")](Pattern/pat39.c) 
 
+[![PATTERN IMAGE](Pattern/IMG/IMG40.png "PATTERN")](Pattern/pat40.c) 
+
 </div>
 
  ## PATTERN WITH NUMBERS
