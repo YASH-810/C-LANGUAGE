@@ -5,5 +5,5 @@
 ## switch case
 ## for loop
 ## while loop
-## while do loop
+## do while loop
 ## [Pattern](Code/README.md)
