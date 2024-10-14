@@ -1,9 +1,4 @@
-[ ## If statement
-## if else statement 
-## Nested if else statement
-## else if ladder
-## switch case
-## for loop
-## while loop
-## do while loop ]:#
+## Decision-making statements
+## Looping statements
+## Jump statements
 ## [Pattern](Code/README.md)
