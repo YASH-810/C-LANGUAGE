@@ -1,6 +1,6 @@
 # LEARN C LANGUAGE 
 
-## Table of Contents
+## 📚 Table of Contents
 - [FUNDAMENTAL OF C LANGUAGE](FUNDAMENTAL_OF_C_LANGUAGE/readme.md)
 - [CONTROL FLOW STATEMENT](CONTROL_FLOW_STATEMENT/readme.md)
 - [FUNCTIONS](FUNCTIONS/readme.md)
