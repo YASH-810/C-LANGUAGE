@@ -1,5 +1,5 @@
 # C LANGUAGE
-## FUNDAMENTAL OF C LANGUAGE
+## 📋 FUNDAMENTAL OF C LANGUAGE
 ### [VARIABLE](files/var.c)
 Variable is a container which hold or store data
 > #### **RULES TO MAKE VARIABLE**
