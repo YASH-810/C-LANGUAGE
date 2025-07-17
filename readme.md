@@ -19,7 +19,7 @@
 
 ## Why C Language?
 - Once anyone known to C languae there is no problem learning other languages such as Python,C++,C#,etc. as syntax are same
-- C is very fast as compare to ohter language like Java and Python   
+- C is very fast as compare to other language like Java and Python   
 
 ## Get start with C Language
 To start C language it require 
